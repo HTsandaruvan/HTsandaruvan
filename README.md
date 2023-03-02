@@ -1,5 +1,5 @@
  # 💫 About Me:
-🔭 I’m a student of Lithan Academy Singapore<br>👯 I’m looking to collaborate on with all of you<br>🤝 I’m looking for Job of Software Developer <br>🌱 I’m following Software engineering Degree<br><br>
+🔭 I’m a student at Lithan Academy Singapore<br>👯 I’m looking to collaborate on with all of you<br>🤝 I’m looking for Job of Software Developer <br>🌱 I’m following Software engineering Degree<br><br>
 
 
 ## 🌐 Socials:
