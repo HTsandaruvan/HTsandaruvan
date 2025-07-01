@@ -37,9 +37,9 @@
 
 ## 📈 GitHub Stats
 
-![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsha-tharuka&show_icons=true&theme=tokyonight)
+![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTsandaruvan&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-tharuka&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTsandaruvan&layout=compact&theme=tokyonight)
 
 ---
 
