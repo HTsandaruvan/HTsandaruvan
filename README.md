@@ -1,4 +1,4 @@
-![Harsha Tharuka Banner](https://your-banner-image-url.com)
+![Harsha Tharuka Banner](https://harsha-portfolio-rho.vercel.app/_next/image?url=%2Fimages%2Fuser-profile.png)
 
 # 👋 Hi, I'm Harsha Tharuka
 
