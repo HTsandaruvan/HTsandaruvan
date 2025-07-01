@@ -1,76 +1,57 @@
-# 💫 About Me:
-Hi! 👋 I’m **Harsha Tharuka**  
-🎓 I am a **Software Engineering student** at **Lithan Academy, Singapore**.  
-💼 I am **looking for a job** as a **Software Developer**.  
-🌱 I am currently working on improving my development skills and learning new technologies!  
-  
-**I love to collaborate with like-minded individuals** and contribute to amazing projects. Let's connect and create something fantastic! 😎
+![Harsha Tharuka Banner](https://your-banner-image-url.com)
 
-## 🌐 Connect with Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HTharuka#6142) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsha-tharuka-sandaruvan-586a85233) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100068705892325)
+# 👋 Hi, I'm Harsha Tharuka
+
+🚀 Full Stack & Mobile App Developer | Passionate about building fast, scalable and user-friendly applications.
 
 ---
 
-# 💻 Tech Stack:
-Here’s a list of technologies I enjoy working with:
+## 🧰 Tech Stack
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Languages:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
----
+**Frontend:**
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 
-# 📊 GitHub Stats:
+**Backend & DB:**
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-- **GitHub Stats**: 
-
-![](https://github-readme-stats.vercel.app/api?username=HTsandaruvan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-- **GitHub Streak Stats**: 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=HTsandaruvan&theme=radical&hide_border=false)
-
-- **Top Languages**: 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HTsandaruvan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-# 🏆 GitHub Trophies:
-Let's go! 🚀 Here's how I'm growing:
-
-![](https://github-profile-trophy.vercel.app/?username=HTsandaruvan&theme=radical&no-frame=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote:
-"Code is like humor. When you have to explain it, it’s bad." 😄  
-> **Corey Ford**
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
 
 ---
 
-## 👀 Profile Views:
+## 📈 GitHub Stats
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=HTsandaruvan)
+![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsha-tharuka&show_icons=true&theme=tokyonight)
 
-![Visit Counter](https://visitcount.itsvg.in/api?id=HTsandaruvan&icon=0&color=0)
-
----
-
-## 🔧 Tools and Resources:
-
-- **VSCode** - My preferred editor for coding projects.  
-- **GitHub** - Source control and collaborative coding.  
-- **IntelliJ IDEA** - Best for working with Java projects.  
-- **Figma** - For creating beautiful designs.  
-- **Stack Overflow** - My coding mentor.
-
----
-**Reach out anytime**! Let's build something awesome together! 🚀  
-_I'm here to collaborate and help turn your ideas into reality._ 🎉
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-tharuka&layout=compact&theme=tokyonight)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=HTsandaruvan&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📫 Let's Connect!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💼 [Portfolio Website](https://yourportfolio.com)
+- 📧 tsandaruvan298@gmail.com
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 💻 [LinkedIn](https://linkedin.com/in/harsha-tharuka)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Let's build the future together. ✨
