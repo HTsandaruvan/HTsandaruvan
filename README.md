@@ -117,6 +117,9 @@
 
 ---
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=HTsandaruvan.HTsandaruvan&left_color=gray&right_color=blue)
+
+
 *Thanks for visiting my profile 🙏🏼*
 
 <!-- Feel free to replace links, usernames, or sections as needed! -->
