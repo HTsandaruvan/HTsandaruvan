@@ -1,125 +1,77 @@
-# Hi 👋, I'm Harsha
-
-### 🌟 A passionate Full Stack and Mobile App Developer from Sri Lanka
-
----
-
-## 🏢 Work
-
-* 🔭 I’m currently working on: **E-commerce App with Next.js, MySQL, and Better Auth**
-  [Project Link](https://your-project-link.com)
-
-* 👯‍♂️ I’m looking to collaborate on: **AI-Powered Marketing SaaS**
-  [Project Link](https://collab-project-link.com)
-
-* 🤞 I’m looking for help with: **Creating a Webview APK using React Native and Expo**
-  [Project Link](https://webview-project-link.com)
-
-## 🌱 Currently Learning
-
-* **NestJS**, **Kubernetes**, **Advanced TailwindCSS Animations**
-
-## 💬 Ask Me About
-
-* React, Next.js, Flutter, Firebase, MySQL, Tailwind CSS
-
-## 📧 How to reach me
-
-* [harshatharuka@gmail.com](mailto:harshatharuka@gmail.com)
-
-## 👨‍💼 All of my projects are available at
-
-* [My Portfolio](https://your-portfolio-link.com)
-
-## 📋 I regularly write articles on
-
-* [Blog](https://your-blog-link.com)
-
-## 📄 Know about my experiences
-
-* [Resume](https://your-resume-link.com)
-
-## ⚡ Fun fact
-
-* I think I’m funny... until the code breaks. 😅
-
----
-
-## 🔧 Skills
-
-### Programming Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square\&logo=typescript)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square\&logo=dart)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python)
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square\&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3)
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square\&logo=express)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square\&logo=firebase)
-
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square\&logo=flutter)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql)
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square\&logo=amazon-aws)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square\&logo=github-actions)
-
-### Tools
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square\&logo=figma)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square\&logo=postman)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code)
-
----
-
-## 📲 Socials
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square\&logo=twitter\&logoColor=white)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github)](https://github.com/yourusername)
-
----
-
-## 📈 Stats
-
-![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTsandaruvan\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTsandaruvan\&layout=compact\&theme=radical)
+<!-- Banner & Greeting -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HTsandaruvan&theme=radical" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=200&section=header&text=Harsha%20Tharuka&fontSize=40&fontColor=ffffff" alt="header"/>
+</p>
+
+<h2 align="center">👋 Hey there! I'm Harsha Tharuka</h2>
+<h3 align="center">💻 Software Engineer | 🌍 Open Source Enthusiast</h3>
+
+<p align="center">
+  <a href="mailto:tsandaruvan298@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/harsha-tharuka-sandaruvan-586a85233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/19280169/harsha" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@tsandaruvan298" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100e?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HTsandaruvan&label=Profile%20views&color=0e75b6&style=flat" alt="HTsandaruvan" />
 </p>
 
 ---
 
-## ☕ Support Me
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FF813F?style=flat-square\&logo=buy-me-a-coffee\&logoColor=white)](https://buymeacoffee.com/yourusername)
+<!-- About Section -->
+### 🙋‍♂️ About Me
+- 🔭 I’m currently working on **Full Stack Web & Mobile Applications**
+- 🌱 I’m learning **Cloud Engineering, DevOps, and Modern JavaScript Frameworks**
+- 👨‍💻 All my projects are available at [My GitHub Repositories](https://github.com/HTsandaruvan?tab=repositories)
+- 💬 Ask me about **Laravel, React.js, PHP, Node.js, Flutter, React Native**
+- 📫 Reach me at **tsandaruvan298@gmail.com**
+- ⚡ Fun fact: I love contributing to open-source and writing tech blogs!
 
 ---
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=HTsandaruvan.HTsandaruvan&left_color=gray&right_color=blue)
+<!-- Skills Section -->
+### 🚀 Languages & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,vue,php,nodejs,js,ts,python,java,django,flask,go,flutter,react,redux,html,css,sass,tailwind,bootstrap,mysql,postgres,mongodb,sqlite,aws,gcp,docker,kubernetes,nginx,git,linux,figma,heroku,redis,graphql,electron,postman,webpack" />
+</p>
 
-*Thanks for visiting my profile 🙏🏼*
+---
 
-<!-- Feel free to replace links, usernames, or sections as needed! -->
+<!-- GitHub Stats -->
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HTsandaruvan&show_icons=true&theme=tokyonight" alt="HTsandaruvan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTsandaruvan&layout=compact&theme=tokyonight" alt="HTsandaruvan" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HTsandaruvan&theme=tokyonight" alt="HTsandaruvan" />
+</p>
+
+---
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HTsandaruvan&theme=tokyonight&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+<!-- Quote or Fun Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Happy+Coding!;Let's+build+something+amazing+together!;Open+to+collaboration+and+new+opportunities."/>
+</p>
