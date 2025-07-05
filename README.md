@@ -46,7 +46,7 @@
 ### 🚀 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,vue,php,nodejs,js,ts,python,java,django,flask,go,flutter,react,redux,html,css,sass,tailwind,bootstrap,mysql,postgres,mongodb,sqlite,aws,gcp,docker,kubernetes,nginx,git,linux,figma,heroku,redis,graphql,electron,postman,webpack" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,php,nodejs,js,ts,python,java,django,flask,go,flutter,react,redux,html,css,sass,tailwind,bootstrap,mysql,nextjs,postgres,mongodb,sqlite,aws,gcp,docker,kubernetes,nginx,git,linux,figma,heroku,redis,graphql,electron,postman,webpack" />
 </p>
 
 ---
