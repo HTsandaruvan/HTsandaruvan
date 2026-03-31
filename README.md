@@ -62,33 +62,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HTsandaruvan&theme=tokyonight" alt="HTsandaruvan" />
 </p>
 
----
-name: Top GitHub Users
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
-jobs:
-  release:
-    name: GitHub Active Users
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2.3.4
-        with:
-          ref: ${{ github.head_ref }}
-          token: ${{ secrets.CUSTOM_TOKEN }}
-      - uses: actions/setup-node@v2.1.5
-        with:
-          node-version: 14.17.0
-      - uses: gayanvoice/top-github-users-action@master
-        env:
-          CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
-
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HTsandaruvan&theme=tokyonight&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HTsandaruvan&theme=tokyonight&row=1&column=6" />
 </p>
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 Open for **freelance & full-time opportunities**
+- 🤝 Open to **collaboration & open-source contributions**
+
 
 ---
 
