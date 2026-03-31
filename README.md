@@ -80,5 +80,5 @@
 
 <!-- Quote or Fun Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Happy+Coding!;+Let's+build+something+amazing+together!;Open+to+collaboration+and+new+opportunities."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Happy+Coding!;+++Let's+build+something+amazing+together!;Open+to+collaboration+and+new+opportunities."/>
 </p>
